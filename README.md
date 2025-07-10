@@ -20,6 +20,6 @@ Excel dashboard analyzing sales by region, category, and month
 
 ## 📁 Files Included:
 - `Sales_Dashboard_Data_Shraddha.xlsx` – Excel file with data + dashboard
-- `Sales_Excel_Dashboard_Report_Shraddha.docx` – Project report
+
 
 
